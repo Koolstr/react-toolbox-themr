@@ -8,6 +8,10 @@ A command line tool to help you extract [react-toolbox](http://react-toolbox.com
 
 ```
 $ yarn add --dev react-toolbox-themr react-toolbox@2.0.0-beta.6
+
+OR
+
+$ npm install --dev react-toolbox-themr react-toolbox@2.0.0-beta.6
 ```
 
 Note it only works with **React Toolbox 2.0 beta**. The output path shown in the GIF is outdated, now by default the assets are generated at `src/toolbox`.
@@ -26,6 +30,9 @@ First of all you have to add `react-toolbox-themr` to your project as a developm
 
 ```
 $ yarn add --dev react-toolbox-themr
+```
+```
+$ npm install --dev react-toolbox-themr
 ```
 
 Once installed you can define the configuration in the `package.json` file of your project or through the `--config <path/to/json>` option. If you want to use your `package.json` to store configuration, the `reactToolbox` key should be used on the top level to find your settings:
