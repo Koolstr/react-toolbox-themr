@@ -8,9 +8,8 @@ A command line tool to help you extract [react-toolbox](http://react-toolbox.com
 
 ```
 $ yarn add --dev react-toolbox-themr react-toolbox@2.0.0-beta.6
-
-OR
-
+```
+```
 $ npm install --dev react-toolbox-themr react-toolbox@2.0.0-beta.6
 ```
 
